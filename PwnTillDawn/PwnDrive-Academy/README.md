@@ -27,7 +27,7 @@ O escopo da atividade foi limitado estritamente ao endereço IP disponibilizado 
 *   **Dificuldade Oficial:** Fácil (Easy)
 *   **IP de Ataque (VPN):** `10.66.66.114` (Interface `tun0`)
 
-![Escopo do Alvo](./assets/1_escopo.png)
+![Escopo do Alvo](./assets/1_escopo.png.png)
 
 ---
 
